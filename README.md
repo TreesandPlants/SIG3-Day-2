@@ -8,4 +8,4 @@ The Problem is to glow the built in led in ESP32 at constant ON and OFF interval
 
 You can check my Button-Controlled LED Toggle Simulation in Wokwi Simulator.
 
-[Run the Day 2 Simulation]((https://wokwi.com/projects/476974533365912577))
+[Run the Day 2 Simulation](https://wokwi.com/projects/476974533365912577)
